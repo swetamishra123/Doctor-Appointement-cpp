@@ -129,6 +129,6 @@ This project is open-source and available under the [MIT License](LICENSE). You 
 
 ## About the Author
 
-This Doctor Appointment System project was created bswetamishra123. If you have any questions or suggestions, please feel free to contact me at [Your Email Address].
+This Doctor Appointment System project was created bswetamishra123. If you have any questions or suggestions, please feel free to contact me at [swetamishra@gmail.com](swetamishra603@gmail.com)
 
 Enjoy using the Doctor Appointment System!
