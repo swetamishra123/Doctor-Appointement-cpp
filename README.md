@@ -43,6 +43,37 @@ This is a simple console-based Doctor Appointment System implemented in C++. The
 - Simple and user-friendly command-line interface.
 - Basic error handling for invalid input.
 
+## Output
+
+
+1. **Doctor Appointment System**: This is the title of the system, indicating what the program does.
+
+2. **Menu Options**:
+   - **1. Book Appointment**: This option allows you to book an appointment with the doctor.
+   - **2. Check Existing Appointment**: This option allows you to check existing appointments.
+   - **0. Exit**: This option allows you to exit the program.
+
+3. **Enter your choice**: You are prompted to enter your choice by typing a number (1, 2, or 0) and pressing Enter.
+
+4. **Book Appointment**:
+   - If you select option 1, it will display available time slots, indicating which slots are available and which are booked.
+   - You can enter a choice by typing a letter (A to Z) corresponding to the time slot you want to book.
+   - If you select a time slot that is already booked, you'll receive an error message, and you need to choose a different time.
+
+5. **Check Existing Appointment**:
+   - If you select option 2, it will show the summary of appointments. It lists available and booked time slots.
+
+6. **Exit Confirmation**:
+   - If you select option 0 (Exit), the program asks for confirmation by typing 'y' for yes or 'n' for no. You can exit by typing 'y' or continue using the system by typing 'n'.
+
+7. **Invalid Choices**:
+   - If you make an invalid selection or input, you'll receive an error message and be prompted to enter a valid choice.
+
+8. **Continuation**:
+   - After performing any action (booking an appointment, checking appointments, etc.), you are prompted to press any key to continue. This allows you to return to the main menu.
+
+Please note that the program is a console-based application, so the user interacts by typing numbers, letters, and confirming choices. It provides a simple and clear interface for booking and checking doctor appointments.
+
 ## Contributing
 
 If you want to contribute to this project, feel free to fork the repository and submit pull requests with your improvements.
