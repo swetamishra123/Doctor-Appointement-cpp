@@ -121,7 +121,7 @@ In this example, you can see that the appointment slot 'M' is already booked, wh
 
 ## Contributing
 
-If you want to contribute to this project, feel free to fork the repository and submit pull requests with your improvements.
+If you want to contribute to this project, feel free to fork the repository and submit pull requests with your improvements and changes.
 
 ## License
 
